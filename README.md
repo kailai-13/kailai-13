@@ -16,7 +16,7 @@
 
 ## LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kailai_13)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kailainathan_13)
 
 ## 📊 GitHub Stats
 
