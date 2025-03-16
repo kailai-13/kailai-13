@@ -1,11 +1,11 @@
-# Hello, I'm [Kailainathan]! 👋
+# Hello, I'm Kailainathan! 👋
 
-I'm a [Student] passionate about [Living].
+
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: [Python], [Javascript]
-- **Frameworks**: [Flask], [Django]
+- **Languages**: Python, Javascript
+- **Frameworks**: Flask, Django
 
 
 ## 🚀 Projects
