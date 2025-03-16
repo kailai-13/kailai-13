@@ -20,5 +20,5 @@
 ## 📫 Contact Me
 
 - **Email**: [kailainathan2006@gmail.com](mailto:kailainathan2006@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kailai-nathan-442b23281/))
+- **LinkedIn**: [Kailainathan](https://www.linkedin.com/in/kailai-nathan-442b23281/)
 - **Instagram**: [@kailai-13](https://www.instagram.com/kailai_13/)
