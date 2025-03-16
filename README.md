@@ -1,6 +1,24 @@
-# KAILAINATHAN
-STEP 1:GET NUMBER N FROM USER
-STEP 2:IF NMOD==0 THEN THEN THE NUMBER N IS EVEN
-STEP 3:ELSE THE NUMBER IS ODD
-STEP 4:PRINT IF THE NUMBER IS EVEN OR ODD 
-STEP 5:STOP
+# Hello, I'm [Kailainathan]! 👋
+
+I'm a [Student] passionate about [Living].
+
+## 🛠️ Skills & Technologies
+
+- **Languages**: [Python], [Javascript]
+- **Frameworks**: [Flask], [Django]
+
+
+## 🚀 Projects
+
+- [**Wifi Attendance**](Project Link): Brief description of the project.
+- [**Youtube Comment Analysis**](Project Link): Brief description of this project.
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+
+- **Email**: [kailainathan2006@gmail.com](mailto:kailainathan2006@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kailai-nathan-442b23281/))
+- **Instagram**: [@kailai-13](https://www.instagram.com/kailai_13/)
