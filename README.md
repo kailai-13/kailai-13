@@ -13,6 +13,11 @@
 - **Wifi Attendance**(https://github.com/kailai-13/True_Wifi_Attendance): Brief description of the project.
 - **Youtube Comment Analysis**(https://github.com/kailai-13/Youtube_Comments_Analysis): Brief description of this project.
 
+
+## LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kailai-nathan)
+
 ## 📊 GitHub Stats
 
 ![](https://raw.githubusercontent.com/kailai-13/stats_for_me/master/generated/overview.svg#gh-dark-mode-only)
