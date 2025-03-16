@@ -15,7 +15,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/kailai-13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kailai-13/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 ## 📫 Contact Me
 
