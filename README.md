@@ -10,8 +10,8 @@
 
 ## 🚀 Projects
 
-- [**Wifi Attendance**](Project Link): Brief description of the project.
-- [**Youtube Comment Analysis**](Project Link): Brief description of this project.
+- **Wifi Attendance**(https://github.com/kailai-13/True_Wifi_Attendance): Brief description of the project.
+- **Youtube Comment Analysis**(https://github.com/kailai-13/Youtube_Comments_Analysis): Brief description of this project.
 
 ## 📊 GitHub Stats
 
