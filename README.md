@@ -15,8 +15,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/kailai-13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kailai-13/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kailai-13/stats_for_me/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kailai-13/stats_for_me/master/generated/languages.svg#gh-dark-mode-only)
 
 
 ## 📫 Contact Me
