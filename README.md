@@ -6,6 +6,7 @@
 
 - **Languages**: Python, Javascript
 - **Frameworks**: Flask, Django
+- **Libraries**:Sci-kit learn , Tensorflow , Spacy , Nltk , Pandas , Numpy
 
 
 ## 🚀 Projects
