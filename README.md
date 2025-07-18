@@ -58,8 +58,7 @@ A sentiment classifier that processes YouTube comments to label them as positive
 - 📧 **Email**: [kailainathan2006@gmail.com](mailto:kailainathan2006@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/kailai-nathan-442b23281](https://www.linkedin.com/in/kailai-nathan-442b23281/)
 - 📸 **Instagram**: [@kailai_13](https://www.instagram.com/kailai_13/)
-- 🧠 **Portfolio** *(optional)*: *Add a personal website if available*
-
+- 🧠 **Portfolio** 
 ---
 
 > ⚡ *Open to internship/full-time opportunities in AI, ML, or full-stack development.*
