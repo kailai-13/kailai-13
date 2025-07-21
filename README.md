@@ -10,7 +10,7 @@ Hello! I'm **Kailainathan**, a passionate developer with strong foundations in *
 - Python, JavaScript
 
 ### ⚙️ Frameworks & Libraries
-- **Web**: Flask, Django, FastAPI (basic), React.js (Vite), Tailwind CSS
+- **Web**: Flask, Django, FastAPI (basic), React.js (Vite), Tailwind CSS ,Html ,CSS
 - **Data Science / ML**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
 - **Deep Learning**: CNN, RNN, LSTM, GAN, SimpleRNN
 - **Computer Vision**: OpenCV (basic image processing & gesture detection)
