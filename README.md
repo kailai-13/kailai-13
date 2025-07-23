@@ -48,7 +48,6 @@ A sentiment classifier that processes YouTube comments to label them as positive
 ## 📊 GitHub & LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kailainathan_13)
-You said:
 ![](https://raw.githubusercontent.com/kailai-13/stats_for_me/master/generated/overview.svg#gh-dark-mode-only) 
 ![](https://raw.githubusercontent.com/kailai-13/stats_for_me/master/generated/languages.svg#gh-dark-mode-only)
 ---
