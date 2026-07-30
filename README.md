@@ -78,5 +78,5 @@ A sentiment classifier that processes YouTube comments to label them as positive
 
 ---
 
-> ⚡ *Open to internship/full-time opportunities in AI, ML, or full-stack development.*
+
 
